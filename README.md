@@ -1,4 +1,4 @@
-# Movie-Recommendation-Enginge
+# Movie-Recommendation-Engine
 DS 4300: Large-scale Storage and Retrieval Final Project
 Recommendation engine for a streaming service that recommends movies based on a movies rating dataset for its users.
 Using Neo4j as the primary NoSQL database to query the relationships between the movies and users.
